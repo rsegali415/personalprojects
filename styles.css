@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 60px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    transition: all ease .65s;
+    z-index: 100;
+    width: 100%;
+  }
+  
+  span {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 15px;
+    color: black;
+  }
+  
+  li #head {
+    color: black;
+    text-decoration: none;
+  }
+  
+  li #head:hover {
+    color: #eb750e;
+    font-size: 18px;
+  }footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 60px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    transition: all ease .65s;
+    z-index: 100;
+    width: 100%;
+    border-bottom: 1px solid black;
+  }
+  
+  span {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 15px;
+    color: black;
+  }
+  
+  
+  li #head {
+    color: black;
+    text-decoration: none;
+  }
+  
+  li #head:hover {
+    color: #eb750e;
+    font-size: 18px;
+  }
+
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 60px;
+  }
+
+.layer1 {
+    margin: 2%;
+    padding: 5px;
+    text-align: center;
+}
+
+#project1 {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+#text {
+  width:45vh;
+  text-align: center;
+}
+
+#p1pic {
+    height: 50vh;
+    width: 45vh;
+}
+
+#project2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+#p2pic {
+    height: 50vh;
+    width: 43vh;
+}
+
+.layer2 {
+    margin: 2%;
+    padding: 5px;
+    text-align: center;
+}
+
+#project3 {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#p3pic {
+    height: 50vh;
+    width: 40vh;
+}
+
+#project4 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+#p4pic {
+    height: 50vh;
+    width: 40vh;
+}
+
+.download {
+  text-decoration: none;
+  color:black;
+}
