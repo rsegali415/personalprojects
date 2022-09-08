@@ -27,7 +27,7 @@ footer {
   }
   
   span {
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-left: 10px;
   }
   
@@ -50,7 +50,7 @@ footer {
   
   li #head:hover {
     color: #eb750e;
-    font-size: 18px;
+    font-size: 1.125rem;
   }footer {
     background: #333;
     color: white;
@@ -70,7 +70,7 @@ footer {
   }
   
   span {
-    font-size: 24px;
+    font-size: 1.5px;
     margin-left: 10px;
   }
   
@@ -94,7 +94,7 @@ footer {
   
   li #head:hover {
     color: #eb750e;
-    font-size: 18px;
+    font-size: 1.125rrem;
   }
 
   footer {
@@ -117,7 +117,7 @@ footer {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-bottom: 14px;
 }
 
@@ -137,7 +137,7 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-bottom: 14px;
 }
 
@@ -159,7 +159,7 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 #p3pic {
@@ -173,7 +173,7 @@ h3 {
 }
 
 h4 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 #p4pic {
